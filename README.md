@@ -1,1 +1,1 @@
-DEMO: https://paymentintegration.ct.ws/Payment_Buttons/index.html 
+DEMO: https://paymentintegration.ct.ws/Payment_Buttons/buttons.html
